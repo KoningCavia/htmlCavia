@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f464682-482f-4393-b632-aaa1a3099d01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/cavia2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cavia3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <workItem from="1673011729980" duration="8469000" />
       <workItem from="1673254163172" duration="1834000" />
       <workItem from="1673341675174" duration="2694000" />
-      <workItem from="1673346731736" duration="5138000" />
+      <workItem from="1673346731736" duration="6337000" />
     </task>
     <servers />
   </component>
