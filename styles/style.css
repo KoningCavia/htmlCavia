@@ -20,6 +20,10 @@ li {
     letter-spacing:1px;
 }
 
+.button {
+    background-color: #630d6c;
+}
+
 body {
     width: 690px;
     margin: 50px 50px 50px 50px; /* clockwise starting at top */
